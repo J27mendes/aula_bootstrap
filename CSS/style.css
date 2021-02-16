@@ -1,0 +1,48 @@
+body {
+    font: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.navbar-collapse {
+    background-color: rgb(230, 195, 150);
+}
+.navbar-brand {
+   background-color:  rgb(233, 219, 202);
+}
+
+.quem-somos{ 
+    background-color: rgb(225, 247, 247);
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+.margin{
+padding-top: 0px;
+margin-bottom: 0px;
+}
+
+div h3 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.parceiros {
+    background-color: rgb(236, 197, 223);
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.servicos {
+    background-color: rgb(247, 236, 157);
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.servicos p  {
+    font-size: 25px;
+    font-family: cursive;
+    color: rgb(143, 42, 156);
+}
+.bg-footer {
+    font-size: 13px;
+    background-color: black;
+    color: cornsilk;
+    text-align: right;
+     }
+
